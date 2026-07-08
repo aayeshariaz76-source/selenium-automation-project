@@ -1,0 +1,9 @@
+Application: OrangeHRM Demo Website
+
+Login Credentials:
+Username: Admin
+Password: admin123
+
+Test Employee Data:
+First Name: Aisha
+Last Name: Riaz
