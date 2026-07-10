@@ -1,4 +1,4 @@
-name: Python Selenium Automation
+name: Python Selenium Automation Test
 
 on:
   push:
