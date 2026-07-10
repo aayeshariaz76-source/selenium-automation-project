@@ -33,4 +33,4 @@ jobs:
 
     - name: Run Selenium Automation Test
       run: |
-        python TestScripts/orangehrm_login.py
+        python selenium_automation/TestScripts/orangehrm_login.py
