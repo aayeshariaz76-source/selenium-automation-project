@@ -43,6 +43,6 @@ time.sleep(8)
 # Screenshot after Save
 driver.save_screenshot("EmployeeSaved.png")
 
-input("Press Enter to close browser...")
+
 
 driver.quit()

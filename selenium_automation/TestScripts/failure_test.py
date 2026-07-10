@@ -27,5 +27,4 @@ except Exception as e:
     print(e)
 
 finally:
-    input("Press Enter to close browser...")
     driver.quit()
